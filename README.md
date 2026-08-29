@@ -30,7 +30,6 @@ focus: "Data Structures & Algorithms"
 currently_building: "SepsisAlert Pro — ML-based clinical decision support system"
 currently_learning: "Advanced DSA patterns & system design"
 mission: "Solve one logic problem at a time 🚀"
-reach_me: "your.email@example.com"
 ```
 
 - 🔭 Currently building **[SepsisAlert Pro](https://github.com/vishalsingh9151/SepsisAlert-Pro)** — an ML-powered early sepsis risk prediction system
